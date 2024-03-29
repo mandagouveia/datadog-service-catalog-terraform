@@ -13,5 +13,20 @@
         "tag_business_unit": "",
         "tag_cost_center": "",
         "tag_autoscaling": ""
+    },
+    {
+        "name": "",
+        "team": "",
+        "contact_name": "",
+        "contact_email": "",
+        "app_description": "",
+        "tier": "",
+        "type": "",
+        "runbook_url": "",
+        "repo_url": "",
+        "doc_url": "",
+        "tag_business_unit": "",
+        "tag_cost_center": "",
+        "tag_autoscaling": "" 
     }
 ]

@@ -7,4 +7,4 @@ locals {
        //campos opcionais 
     }
 
-    }
+}
